@@ -5,7 +5,9 @@
     width: 50%;
   }
 
-
+h1 {
+    text-align: center;
+}
 body {
     background-color: #F2EEE4;
 }
